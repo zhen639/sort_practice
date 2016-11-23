@@ -1,4 +1,3 @@
-require 'pry'
 module  BubbleSort
   def self.sort(arr)
     arr = arr.map(&:to_i)

@@ -4,4 +4,4 @@ gem 'rspec'
 
 #debugger
 gem 'pry-byebug'
-gem 'pry'
+gem 'rake'
